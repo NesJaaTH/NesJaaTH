@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Nattapon+(Nes);Full+Stack+Developer;Go+%7C+Next.js+%7C+TypeScript;Building+Miruway+Platform+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Nattapon+(Nes);Full+Stack+Developer;Building+Miruway+Platform+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -90,13 +90,13 @@ func main() {
 
 [![Miruway](https://img.shields.io/badge/Miruway--Official-181717?style=for-the-badge&logo=github)](https://github.com/Miruway-Official)
 
-| Service | Stack | Port |
-|---------|-------|------|
-| Auth | Go Fiber v3 · GORM · PostgreSQL · Redis · JWT | 8001 |
-| Shop | Go Fiber v3 · GORM · PostgreSQL · Redis | 8002 |
-| Payment | Go Fiber v3 · GORM · PostgreSQL · SlipOK | 8003 |
-| OCR | Go Fiber v3 · Tesseract · OpenTyphoon API | 8004 |
-| Notification | Go Fiber v3 · PostgreSQL | 8005 |
+| Service | Stack |
+|---------|-------|
+| Auth | Go Fiber v3 · GORM · PostgreSQL · Redis · JWT |
+| Shop | Go Fiber v3 · GORM · PostgreSQL · Redis |
+| Payment | Go Fiber v3 · GORM · PostgreSQL · SlipOK |
+| OCR | Go Fiber v3 · Tesseract · OpenTyphoon API |
+| Notification | Go Fiber v3 · PostgreSQL |
 
 **Architecture:** Clean Architecture (Ports & Adapters) · Schema-per-service DB · Nginx reverse proxy · CI/CD via GitHub Actions + GHCR
 
