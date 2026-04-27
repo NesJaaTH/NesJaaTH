@@ -120,15 +120,7 @@ func main() {
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nesjaath&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NesJaaTH&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NesJaaTH&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NesJaaTH&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NesJaaTH&theme=tokyonight&utcOffset=7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesjaath&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
