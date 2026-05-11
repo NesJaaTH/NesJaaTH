@@ -117,7 +117,6 @@ func main() {
 
 ## 📊 GitHub Stats
 
-
   <div align="center">
 
   [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NesJaaTH&theme=tokyonight)](https://github.com/nesjaath)
@@ -126,6 +125,7 @@ func main() {
   [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NesJaaTH&theme=tokyonight)](https://github.com/nesjaath)
 
   </div>
+  
   <div align="center">
 
   [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NesJaaTH&theme=tokyonight)](https://github.com/nesjaath)
@@ -136,7 +136,7 @@ func main() {
 
 ## 🌐 Connect With Me
 
-###<div align="center">
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nattapon-peadamrong-a44134403)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nes_jaa)
