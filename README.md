@@ -131,24 +131,12 @@ func main() {
   [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NesJaaTH&theme=tokyonight&utcOffset=7)](https://github.com/nesjaath)
 
   </div>
-
-  <div align="center">
-
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=nesjaath&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-  </div>
-
-  <div align="center">
-
-  [![NesJaaTH's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nesjaath&theme=tokyo-night&hide_border=true)](https://github.com/nesjaath)
-
-  </div>
-
+  
 ---
 
 ## 🌐 Connect With Me
 
-<div align="center">
+###<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nattapon-peadamrong-a44134403)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nes_jaa)
